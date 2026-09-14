@@ -1,4 +1,6 @@
-## Fraud Detection Analytics Dashboard (PROJECT 1)
+## Fraud and Risk Analytics Dashboard - Personal Portfolio Project 
+
+**This project was developed independently for learning and portfolio purposes using a synthetic dataset. It does not contain any proprietary, confidential, client or employer data**
 
 Power BI dashboard analyzing 60,000 global transactions (10 countries, full year 2024) to identify fraud risk patterns across geography, channel, device, and customer behavior.
 
